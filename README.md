@@ -16,7 +16,7 @@ Follow me in my Social Networks:
 
 ---
 
-## 👨🏻‍💻 Technologies I use every day:
+## 👨🏻‍💻 Technologies:
 
 ### **Backend:**
 
@@ -31,10 +31,15 @@ Follow me in my Social Networks:
 
 
 ### **Backend Frameworks that I Like:**
-- NestJS (Typescript)
-- AdonisJS (Typescript)
-- Flask (Python)
-- Symfony (PHP)
+- [Gin (Golang)](https://github.com/gin-gonic/gin#gin-web-framework)
+- [Echo (Golang)](https://echo.labstack.com/)
+- [Gorilla (Golang)](https://www.gorillatoolkit.org/)
+- [NestJS (Typescript)](https://nestjs.com/)
+- [AdonisJS (Typescript)](https://adonisjs.com/)
+- [Flask (Python)](https://flask.palletsprojects.com/en/1.1.x/)
+- [Django (Python)](https://www.djangoproject.com/)
+- [Lumen (PHP)](https://lumen.laravel.com/)
+- [Symfony (PHP)](https://symfony.com/)
 
 ### **Frontend:**
 - Html5
@@ -45,8 +50,11 @@ Follow me in my Social Networks:
 - React
 
 ### **Frontend Frameworks that I like:**
-- Nuxt
-- Next
+- [Nuxt (Vue)](https://nuxtjs.org/)
+- [Next (React)](https://nextjs.org/)
+
+### **Frontend style Frameworks that I like:**
+- [Tailwindcss](https://tailwindcss.com/)
 
 ### **Devops Technologies:**
 - Docker
