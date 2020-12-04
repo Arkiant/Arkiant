@@ -53,7 +53,7 @@ Follow me in my Social Networks:
 - [Nuxt (Vue)](https://nuxtjs.org/)
 - [Next (React)](https://nextjs.org/)
 
-### **Frontend style Frameworks that I like:**
+### **Css Frameworks that I like:**
 - [Tailwindcss](https://tailwindcss.com/)
 
 ### **Devops Technologies:**
