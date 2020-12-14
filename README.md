@@ -16,6 +16,18 @@ Follow me in my Social Networks:
 
 ---
 
+## 📚 My projects
+
+- restaurant (private) -> Own project for restaurants.
+- [freegames](https://github.com/Arkiant/freegames) -> Own project using DDD and hexagonal architecture in Go.
+- [curriculum](https://github.com/Arkiant/curriculum) -> Vue test project.
+- [nextjs-blog](https://github.com/Arkiant/nextjs-blog) -> React test project.
+- [grpc-go-course](https://github.com/Arkiant/grpc-go-course) -> GRPC Udemy course in Go.
+- [graphqlblog](https://github.com/Arkiant/graphqlblog) -> GraphQL Udemy course in Go.
+- [labxIII](https://github.com/Arkiant/labxIII) -> Chatbot dialogflow using Go, labX III edition was a hackaton in my old work where i was a mentor.
+
+---
+
 ## 👨🏻‍💻 Technologies:
 
 ### **Backend:**
@@ -29,17 +41,15 @@ Follow me in my Social Networks:
 <code><img height="20" src="icons/python.svg"></code>
 <code><img height="20" src="icons/php.png"></code>
 
-
-### **Backend Frameworks that I Like:**
+### **Backend Frameworks that I use:**
 - [Gin (Golang)](https://github.com/gin-gonic/gin#gin-web-framework)
-- [Echo (Golang)](https://echo.labstack.com/)
 - [Gorilla (Golang)](https://www.gorillatoolkit.org/)
-- [NestJS (Typescript)](https://nestjs.com/)
-- [AdonisJS (Typescript)](https://adonisjs.com/)
+- [NestJS (Typescript)](https://nestjs.com/) (at work)
+- [AdonisJS (Typescript)](https://adonisjs.com/) (at work)
 - [Flask (Python)](https://flask.palletsprojects.com/en/1.1.x/)
 - [Django (Python)](https://www.djangoproject.com/)
 - [Lumen (PHP)](https://lumen.laravel.com/)
-- [Symfony (PHP)](https://symfony.com/)
+- [Symfony (PHP)](https://symfony.com/) (at work)
 
 ### **Frontend:**
 - Html5
