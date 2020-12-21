@@ -17,14 +17,14 @@ Follow me in my Social Networks:
 ---
 
 ## 📚 My projects
-
-- restaurant (private) -> Own project for restaurants.
-- [freegames](https://github.com/Arkiant/freegames) -> Own project using DDD and hexagonal architecture in Go.
+- superhero-academy-counter (private) -> My own access control project for the academy where I practice martial arts. (Backend firebase, Frontend in React)
+- restaurant (private) -> Own project for restaurants. (Backend in Golang, Frontend in React)
+- [freegames](https://github.com/Arkiant/freegames) -> Own project using DDD and hexagonal architecture in Golang.
 - [curriculum](https://github.com/Arkiant/curriculum) -> Vue test project.
 - [nextjs-blog](https://github.com/Arkiant/nextjs-blog) -> React test project.
-- [grpc-go-course](https://github.com/Arkiant/grpc-go-course) -> GRPC Udemy course in Go.
-- [graphqlblog](https://github.com/Arkiant/graphqlblog) -> GraphQL Udemy course in Go.
-- [labxIII](https://github.com/Arkiant/labxIII) -> Chatbot dialogflow using Go, labX III edition was a hackaton in my old work where i was a mentor.
+- [grpc-go-course](https://github.com/Arkiant/grpc-go-course) -> GRPC Udemy course in Golang.
+- [graphqlblog](https://github.com/Arkiant/graphqlblog) -> GraphQL Udemy course in Golang.
+- [labxIII](https://github.com/Arkiant/labxIII) -> Chatbot dialogflow using Golang, labX III edition was a hackaton in my old work where i was a mentor.
 
 ---
 
