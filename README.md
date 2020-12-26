@@ -1,8 +1,12 @@
 <img src="upper.jpg">
 
- # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Samuel a Software Developer
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Samuel a Software Developer
 
+## My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=arkiant&show_icons=true&theme=radical&hide_title=true&show_icons=true&count_private=true" />
+
+## My top languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkiant&layout=compact&hide_title=true" />
 
 I like to be a backend software developer, I like develop **high performance** API's with Golang.
 
