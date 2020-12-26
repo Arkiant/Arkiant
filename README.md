@@ -1,6 +1,6 @@
 <img src="upper.jpg">
 
- # Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Samuel a Software Developer
+ # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Samuel a Software Developer
 
 <img src="https://github-readme-stats.vercel.app/api?username=arkiant&show_icons=true&theme=radical&hide_title=true&show_icons=true&count_private=true" />
 
