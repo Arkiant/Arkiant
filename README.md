@@ -18,14 +18,12 @@
 
 **About me:**
 
-Follow me in my Social Networks:
-- [Linkedin](https://es.linkedin.com/in/arkiant)
-- [Twitter](https://twitter.com/arkiant_)
-
 - 🔭 I'm a Software Engineer at [@secture](https://github.com/secture).
 - 🌱 I’m currently learning Kubernetes.
 - 💬 Ask me about anything [here](https://github.com/arkiant/arkiant/issues).
 
+Follow me in my Social Networks:
+- [Linkedin](https://es.linkedin.com/in/arkiant)   [Twitter](https://twitter.com/arkiant_)
 
 **📚 My projects:**
 
