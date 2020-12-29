@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Samuel a Software Developer
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
@@ -18,7 +18,7 @@
 
 **About me:**
 
-- 🔭 I'm a Software Engineer at [@secture](https://github.com/secture).
+- 🔭 I'm Samuel a Software Engineer at [@secture](https://github.com/secture).
 - 🌱 I’m currently learning Kubernetes.
 - 💬 Ask me about anything [here](https://github.com/arkiant/arkiant/issues).
 
