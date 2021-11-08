@@ -18,8 +18,8 @@
 
 **About me:**
 
-- 🔭 I'm Samuel a Software Engineer at [@secture](https://github.com/secture).
-- 🌱 I’m currently learning Kubernetes.
+- 🔭 I'm Samuel a Software Engineer at [@loyalguru](https://github.com/loyalguru).
+- 🌱 I’m currently learning Blockchain.
 - 💬 Ask me about anything [here](https://github.com/arkiant/arkiant/issues).
 
 Follow me in my Social Networks:
