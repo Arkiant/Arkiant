@@ -19,7 +19,7 @@
 **About me:**
 
 - 🔭 I'm Samuel a Software Engineer at [@loyalguru](https://github.com/loyalguru).
-- 🌱 I’m currently learning Blockchain.
+- 🌱 I’m currently learning Solidity (blockchain).
 - 💬 Ask me about anything [here](https://github.com/arkiant/arkiant/issues).
 
 Follow me in my Social Networks:
